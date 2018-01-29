@@ -7,6 +7,6 @@ The following pictures show documentation of [SortedSet&lt;T&gt;](https://msdn.m
 ![Original documentation](SortedSetT1.png)
 
 **Documentation changed by the script:**
-![Processed cocumentation](SortedSetT1.png)
+![Processed cocumentation](SortedSetT2.png)
 
 Tested in Google Chrome 64.0 on Windows 10.
